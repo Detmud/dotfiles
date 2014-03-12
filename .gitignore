@@ -14,6 +14,6 @@ Icon
 .Spotlight-V100
 .Trashes
 
-# VIM Stuff
+# VIM untracked files:
 # ====================
-.netrwhist 
+vim/.netrwhist
