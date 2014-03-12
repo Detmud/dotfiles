@@ -1,1 +1,0 @@
-/Users/detmud/.zprezto/runcoms/zshrc
