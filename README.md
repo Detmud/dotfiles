@@ -1,4 +1,4 @@
-Detmud dotfiles
+# Detmud dotfiles
 
 ## Installation
 
