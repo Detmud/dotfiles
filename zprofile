@@ -36,6 +36,11 @@ fi
 # Ensure path arrays do not contain duplicates.
 typeset -gU cdpath fpath mailpath path
 
+# Brew ZSH-Completions 
+# Install with "brew install zsh-completions"
+
+fpath=(/usr/local/share/zsh-completions $fpath)
+
 # Set the the list of directories that cd searches.
 # cdpath=(
 #   $cdpath
