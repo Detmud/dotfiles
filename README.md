@@ -3,7 +3,7 @@
 ## Installation
 
 ```bash
-git clone git://github.com/detmud/dotfiles.git
+git clone git@github.com:Detmud/dotfiles.git
 cd ~/dotfiles
 chmod +x makesymlinks.sh
 ./makesymlinks.sh
