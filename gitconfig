@@ -12,3 +12,4 @@
 	l = log --pretty=oneline -n 20 --graph --abbrev-commit
 	# View the current working tree status using the short format
 	s = status -s
+	sa = stage --all .
