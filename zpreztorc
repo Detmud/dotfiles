@@ -34,18 +34,21 @@ zstyle ':prezto:load' pmodule \
   'utility' \
   'completion' \
   'prompt' \
+  'osx' \
   'homebrew' \
   'git' \
   'ruby' \
+  'rails' \
   'python' \
-  'syntax-highlighting' 
+  'syntax-highlighting' \
+  'prompt'
 
 #
 # Editor
 #
 
 # Set the key mapping style to 'emacs' or 'vi'.
-#zstyle ':prezto:module:editor' key-bindings 'emacs'
+zstyle ':prezto:module:editor' key-bindings 'vi'
 
 # Auto convert .... to ../..
 # zstyle ':prezto:module:editor' dot-expansion 'yes'
