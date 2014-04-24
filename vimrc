@@ -2,7 +2,7 @@
 set nocompatible
 " Use the OS clipboard by default (on versions compiled with `+clipboard`)
 " Set color scheme!¬
-colorscheme smyck
+" colorscheme smyck
 set clipboard=unnamed
 " Enhance command-line completion
 set wildmenu

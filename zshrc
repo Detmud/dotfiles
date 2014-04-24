@@ -12,3 +12,6 @@ fi
 
 # Customize to your needs...
 
+
+export GNUTER="X11"
+
