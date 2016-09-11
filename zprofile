@@ -49,10 +49,11 @@ fpath=(/usr/local/share/zsh-completions $fpath)
 # Set the list of directories that Zsh searches for programs.
 path=(
   /usr/local/{bin,sbin}
+  /usr/{bin,sbin}
+  /{bin,sbin}
   $path
 )
 
-#
 # Less
 #
 
